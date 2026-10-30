@@ -1,0 +1,42 @@
+[
+  {
+    "text": "In which year was Rust 1.0 released?",
+    "options": ["2012", "2015", "2018", "2021"],
+    "correct": "B"
+  },
+  {
+    "text": "What is the name of Rust's unofficial mascot?",
+    "options": ["Tux", "Duke", "Ferris", "Gopher"],
+    "correct": "X"
+  },
+  {
+    "text": "Who started Rust as a personal project in 2006?",
+    "options": ["Graydon Hoare", "Brendan Eich", "Rob Pike", "Larry Wall"],
+    "correct": "A"
+  },
+  {
+    "text": "Where are Rust libraries (crates) published?",
+    "options": ["npm", "PyPI", "Maven Central", "crates.io"],
+    "correct": "Y"
+  },
+  {
+    "text": "What is the newest Rust edition?",
+    "options": ["2018", "2021", "2024", "2027"],
+    "correct": "X"
+  },
+  {
+    "text": "What do Rust programmers call themselves?",
+    "options": ["Rustlings", "Rustaceans", "Crabbies", "Oxidizers"],
+    "correct": "B"
+  },
+  {
+    "text": "Which company sponsored Rust from 2009 on?",
+    "options": ["Google", "Microsoft", "Apple", "Mozilla"],
+    "correct": "Y"
+  },
+  {
+    "text": "How often is a new stable Rust version released?",
+    "options": ["Every 6 weeks", "Every 3 months", "Every year", "Every 3 years"],
+    "correct": "A"
+  }
+]
